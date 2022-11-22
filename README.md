@@ -1,5 +1,5 @@
 # Michelson-Interferometer
 Our project for study-represents interference in Michelson Interferometer.
-Final version will show animation of the interference,basic sollution only shows static version of interference.
-
+</br>
+In that repo there are some alternative solutions for the problem,it shows the progress of the project.
 
